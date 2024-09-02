@@ -1,0 +1,14 @@
+Grandes Volúmenes de Datos (Big Data):
+
+Escala: Terabytes (TB) o más.
+Velocidad: Procesamiento en tiempo real.
+Variedad: Datos estructurados y no estructurados.
+Tecnologías: Hadoop, Spark, NoSQL.
+
+
+Datos No Tan Grandes:
+Escala: Megabytes (MB) a gigabytes (GB).
+Velocidad: Procesamiento en batch.
+Variedad: Principalmente datos estructurados.
+Tecnologías: Excel, pandas, SQL.
+
